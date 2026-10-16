@@ -1,9 +1,11 @@
 {
-    "owner": {
-        "username": "latiefahmad",
-        "email": "mail@latief.id"
-    },
-    "records": {
-        "CNAME": "latiefahmad.github.io"
-    }
+  "owner": {
+    "username": "latiefahmad",
+    "email": "mail@latief.id"
+  },
+  "records": {
+    "A": [
+      "216.198.79.1"
+    ]
+  }
 }
